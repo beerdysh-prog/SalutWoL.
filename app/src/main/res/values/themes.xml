@@ -1,7 +1,0 @@
-<resources>
-    <style name="Theme.SalutWoL" parent="Theme.AppCompat.DayNight.NoActionBar">
-        <item name="colorPrimary">#2962FF</item>
-        <item name="colorPrimaryDark">#0039CB</item>
-        <item name="colorAccent">#00C853</item>
-    </style>
-</resources>
